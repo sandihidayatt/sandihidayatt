@@ -35,6 +35,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 ![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Robot Framework](https://img.shields.io/badge/-robotframework-181717?style=for-the-badge&logo=robotframework)
+![Katalon](https://img.shields.io/badge/-katalon-181717?style=for-the-badge&logo=katalon)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Newman](https://img.shields.io/badge/-newman-181717?style=for-the-badge&logo=newman)
