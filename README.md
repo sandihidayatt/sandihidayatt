@@ -40,7 +40,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 ![Newman](https://img.shields.io/badge/-newman-181717?style=for-the-badge&logo=newman)
 ![Karate Framework](https://img.shields.io/badge/-karate-181717?style=for-the-badge&logo=karate)
 ![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
-![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL](https://img.shields.io/badge/-mssql-181717?style=for-the-badge&logo=mssql)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-confluence-181717?style=for-the-badge&logo=confluence)
