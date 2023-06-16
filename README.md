@@ -28,8 +28,6 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 ## 🔨Tools
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
-[![Python](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
-https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
 ![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
 ![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
