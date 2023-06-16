@@ -36,7 +36,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 ![Cypress](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
 ![Robot Framework](https://img.shields.io/badge/-robotframework-181717?style=for-the-badge&logo=robotframework)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=w
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Newman](https://img.shields.io/badge/-newman-181717?style=for-the-badge&logo=newman)
 ![Karate Framework](https://img.shields.io/badge/-karate-181717?style=for-the-badge&logo=karate)
 ![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
